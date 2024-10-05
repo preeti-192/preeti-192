@@ -11,7 +11,7 @@ I'm open to collaborating on projects involving modern JavaScript frameworks, es
 
 ### 📫 How to Reach Me
 - **Email:** [preetiyadav5443@gmail.com](mailto:preetiyadav5443@gmail.com)
-- **LinkedIn:** [Preeti Yadav](https://www.linkedin.com/in/preeti-yadav-9ab119300/)
+- **LinkedIn:** [Preeti Yadav](https://www.linkedin.com/in/preeti-yadav5443/)
 - **GitHub:** [@preeti-192](https://github.com/preeti-192)
 
 ### 😄 Pronouns
